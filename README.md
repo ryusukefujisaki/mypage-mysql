@@ -1,2 +1,2 @@
-# mypage-mysql
-mypage-mysql
+# mysql
+mysql
